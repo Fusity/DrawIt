@@ -1,0 +1,25 @@
+/*For all non-configured*/
+* {
+    text-align: center;
+    text-decoration: none;
+    color: darkcyan;
+    background-color: rgb(182, 182, 182);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*configuration of footer*/
+footer {
+    text-align: right;
+}
+
+/*mot class for the first title*/
+.mot {
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*Here class "groas" for 60pt and weight bolder*/
+.groas {
+    font-size: 60pt;
+    font-weight: bolder;
+}
